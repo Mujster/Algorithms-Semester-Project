@@ -10,7 +10,7 @@ The implemented C++ program leverages graph theory concepts to construct a socia
 
 Through this implementation, the program enables exploration into different relationship types, communication patterns, collaboration networks, influence metrics, and community structures within the university. This endeavor aims to provide insights into the dynamics and interconnections within the FAST-NUCES social network, facilitating a deeper understanding of the university's social fabric.
 
-The program's design and functionalities allow for a holistic examination of the social dynamics within the university, contributing to the exploration of social network analysis methodologies in academic environments. This report details the implementation, insights gained, challenges encountered, and performance analysis of the developed system.
+The program's design and functionalities allow for an examination of the social dynamics within the university, contributing to the exploration of social network analysis methodologies in academic environments. This report details the implementation, insights gained, challenges encountered, and performance analysis of the developed system.
 
 ## Code Structure and Functionality
 
